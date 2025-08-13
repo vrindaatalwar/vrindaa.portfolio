@@ -1,27 +1,31 @@
-# HTML, CSS, JS (Auto Refresh)
+Portfolio Website
 
-This template is a starter for building a website with HTML, CSS and JS, powered by [Vite](https://vitejs.dev/). HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
+A personal portfolio website built to showcase my front-end development skills and creative design approach.  
+It’s crafted with HTML, CSS, and Tailwind CSS to deliver a clean, responsive, and engaging experience.
 
-Hit run to see this project in action. It will auto-refresh as you edit the HTML, CSS and JS files.
+## Features
 
-## Disable Auto Refresh
+- Responsive Design – Optimized for desktop, tablet, and mobile viewing.
+- Interactive Hover Effects – Smooth transitions and animations for a modern feel.
+- Well-Structured Layout – Highlights skills, projects, and personal details.
+- Aesthetic Styling – Carefully chosen colors, typography, and spacing for a professional look.
 
-If you find the auto refresh getting in your way, go to [vite.config.js](./vite.config.js) and update it set `hmr` to false to disable hot module reloading (HMR). The full config will look like this:
+## Tech Stack
 
-```js
-export default defineConfig({
-  plugins: [],
-  server: {
-    host: '0.0.0.0',
-    hmr: false, // Change this line to `false` disable auto-refreshing.
-  }
-})
-```
+- HTML5 – Structure and content.
+- CSS3 – Base styling and layout control.
+- Tailwind CSS – Utility-first CSS framework for rapid styling.
 
-## Packages
+## Purpose
 
-Because this template uses Vite to build your code, you can add install and use npm packages. Simple open the Packager tool to search and manage your packages.
+This project serves as my personal online presence, giving visitors an overview of my capabilities in front-end development.  
+It reflects my attention to detail and commitment to creating visually appealing, functional designs.
 
-## Learn More
+## Updates
 
-Check out [the vite docs](https://vitejs.dev) to learn more about configuring a frontend application.
+I will keep improving and updating this portfolio with:
+- New projects
+- Updated skills
+- Enhanced UI/UX features
+
+
